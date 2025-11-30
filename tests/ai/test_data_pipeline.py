@@ -49,6 +49,12 @@ except ImportError:
             else:
                 augmented = data
             return augmented
+
+      // Example placeholder for deployment logic:
+  console.log("[Oncode] Compiling and deploying modules...");
+  console.log("[Oncode] Project name:", config.name);
+  console.log("[Oncode] Description:", config.description);
+
         
         def batch_process(self, raw_data, batch_size=32):
             if not self.is_initialized:
