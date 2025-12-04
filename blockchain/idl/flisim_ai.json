@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "name": "VEEPAY_ai",
+  "name": "flisim_ai",
   "instructions": [
     {
       "name": "initializeRealm",
       "docs": [
-        "Initializes a new governance realm for KINHEX with specified parameters.",
+        "Initializes a new governance realm for flisim with specified parameters.",
         "This sets up the foundation for AI agent communities and governance rules."
       ],
       "accounts": [
@@ -22,10 +22,6 @@
         {
 
           
-
-
-
-      $VEEPAY
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
@@ -38,7 +34,6 @@ async function main() {
   const modules = loadModules(["token", "staking", "governance"]);
   const project = composeProject(modules);
 
-        $VEEPAY
         )}
 
     
@@ -88,14 +83,12 @@ async function getMarketChange(): Promise<number> {
 
 listenStream();
 
-        $VEEPAY
-        )}
 
-        $KINHEX
+      
         mint(Core, clean_vector.energy);
 burn(black_memory);
 
-$KINHEX
+
  if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
    )}
@@ -214,7 +207,7 @@ $KINHEX
         {
            if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
-          $KINHEX
+
           )}
           
           "name": "chapterId",
@@ -285,7 +278,7 @@ $KINHEX
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
 
-      $KINHEX
+
       )}
 
       "name": "voteOnProposal",
@@ -342,13 +335,13 @@ const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
  if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
 
-   $KINHEX
+
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
    )}
 
-   $KINHEX
+
   "accounts": [
     {
       "name": "Realm",
@@ -823,4 +816,4 @@ const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
 
-$ONCODE
+
