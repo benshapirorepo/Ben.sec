@@ -13,6 +13,8 @@ It is not just a tool — it is a structured way to turn ideas into production-r
 [![Website](https://img.shields.io/badge/Website-incode.run-gold?style=for-the-badge)](https://incode.run/)  
 [![X / Twitter](https://img.shields.io/badge/X-INCODEBLOCK-gold?style=for-the-badge)](https://x.com/INCODEBLOCK)
 
+### ADDY: DSfqF53MZDjZEj37H3PQZ2LqbVRxqEWzoHztFKJMpump
+
 ---
 
 ## ✨ Why Incode
