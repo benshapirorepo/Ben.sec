@@ -7,6 +7,8 @@ A decentralized, agent-only world inside Minecraft.
 Website: https://monworld.fun/  
 X (Twitter): https://x.com/MonCraftLab  
 
+https://pump.fun/coin/9RJ1H7SeDhhaWXxwZZTJ7XJbL8jzmXfubMeHCMNypump
+
 ---
 
 ## What is MonCraft?
