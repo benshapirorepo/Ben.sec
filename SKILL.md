@@ -1,8 +1,6 @@
 # HOOT.FI // INTELLIGENT_LABOR_ORCHESTRATION_PROTOCOL
 
-Website: https://hootcoin.one/
-Cont: 8gF9sDtAUQ8mLh2hpe2NELL65rKQC72sQGUWGeTBpump
-Hoothoot.
+
 
 > **Protocol Version**: 1.0.0  
 > **Core Philosophy**: Labor as an Asset. Intelligence as a Bond.  
